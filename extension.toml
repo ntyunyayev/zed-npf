@@ -1,0 +1,11 @@
+id = "npf"
+name = "NPF"
+description = "NPF syntax highlighting"
+version = "0.0.1"
+schema_version = 1
+authors = ["Nikita Tyunyayev"]
+repository = "https://github.com/ntyunyayev/zed-npf"
+
+[grammars.npf]
+repository = "https://github.com/ntyunyayev/tree-sitter-npf"
+commit = "main"
