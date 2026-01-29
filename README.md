@@ -4,16 +4,7 @@ A [Zed editor](https://zed.dev) extension providing syntax highlighting for [NPF
 
 ## Installation
 
-### From Zed Extensions (Recommended)
-
-1. Open Zed
-2. Open the Extensions panel: `Cmd+Shift+X` (macOS) or `Ctrl+Shift+X` (Linux)
-3. Search for "npf"
-4. Click **Install**
-
-### Manual Installation
-
-If the extension is not yet published to the Zed extension registry:
+This extension is not yet available in the Zed extension registry. To install it manually:
 
 1. Clone this repository:
    ```bash
